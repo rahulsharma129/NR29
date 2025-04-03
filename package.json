@@ -1,0 +1,23 @@
+{
+  "name": "nr29",
+  "version": "1.0.0",
+  "description": "nr29",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulsharma129/NR29.git"
+  },
+  "keywords": [
+    "react",
+    "nr29"
+  ],
+  "author": "rahul sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulsharma129/NR29/issues"
+  },
+  "homepage": "https://github.com/rahulsharma129/NR29#readme"
+}
